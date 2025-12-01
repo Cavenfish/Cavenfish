@@ -1,10 +1,20 @@
 # Hi there, I'm Cavenfish 👋
+<!-- Language badges -->
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
-## About Me
+I'm currently a theoretical chemistry PhD candidate at Leiden University (graduating April 2026). I really enjoy science but my true passion is coding.
 
-I love to code and create amazing projects. I'm passionate about open-source software and love learning from and contributing to open-source projects. 
+I mostly code in Python, Julia, and Rust (with Rust being my favorite), but I've
+done some stuff with JavaScript, Solidity, and C++ as well. 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cavenfish&show_icons=true&theme=dark)
+## What I enjoy working on
+- Scientific simulation software
+- Blockchain projects
+- Data processing & numerical computing
+- Performance optimization
+- Building CLIs in Rust
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavenfish&layout=compact&theme=dark&hide=html,css)
+## Open to work
+Interested in **backend software engineering** and **scientific computing** roles. Feel free to reach out!
